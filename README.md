@@ -28,6 +28,16 @@ What are Convexity Defects? Any deviation of the contour from its convex hull is
 ---
 
 ### How to run the project:
-- Clone the repository
+- Clone the repository 
+```
+gti clone https://github.com/IcHiGo-KuRoSaKiI/AirPiano.git
+```
 - Install the required libraries
-- Run the code using the command: `python main.py`
+```
+pip install -r requirements.txt
+```
+- Run the code using the command
+```
+python flappy_bird.py
+```
+
